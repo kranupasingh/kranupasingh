@@ -72,6 +72,7 @@ Turning numbers into understandable insights that can support business decisions
 🔹 Cloud Technology
 Developing foundational knowledge of Microsoft Azure and cloud-based data technologies.
 
+
 🚀 Featured Projects
 📊 Data Analysis with SQL
 
