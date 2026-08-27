@@ -105,26 +105,28 @@ Interactive visualisations and dashboards focused on discovering trends and comm
 
 ➡️ View Project
 
-🧠 Skills
+🧠** Skills**
 Category	Skills
-🗄️ Databases	SQL, Supabase
-🐍 Programming	Python
-📊 BI & Visualisation	Power BI, Tableau
-📗 Spreadsheets	Microsoft Excel
-☁️ Cloud	Microsoft Azure
-🔍 Analysis	Data Cleaning, Data Exploration, Data Analysis
-📈 Reporting	Dashboards, Visualisation, Data Storytelling
-🌱 Currently Growing
+- 🗄️ Databases	SQL, Supabase
+- 🐍 Programming	Python
+- 📊 BI & Visualisation	Power BI, Tableau
+- 📗 Spreadsheets	Microsoft Excel
+- ☁️ Cloud	Microsoft Azure
+- 🔍 Analysis	Data Cleaning, Data Exploration, Data Analysis
+- 📈 Reporting	Dashboards, Visualisation, Data Storytelling
+- 🌱 Currently Growing
 
 I'm continuing to develop my skills in:
 
-📊 Advanced data visualisation
-🐍 Python for data analytics
-🗄️ Advanced SQL
-📈 Power BI dashboard development
-☁️ Cloud & data technologies
-💼 Building real-world data analytics projects
-📂 My Data Analytics Journey
+- 📊 Advanced data visualisation
+- 🐍 Python for data analytics
+- 🗄️ Advanced SQL
+- 📈 Power BI dashboard development
+- ☁️ Cloud & data technologies
+- 💼 Building real-world data analytics projects
+
+
+📂 **My Data Analytics Journey**
 
 My goal is to use this GitHub to showcase my journey as a Data Analyst and demonstrate how I can take a dataset through the full analytics process:
 
@@ -132,25 +134,14 @@ Raw Data 🗃️ → Clean Data 🧹 → Analysis 🔍 → Visualisation 📊 �
 
 I'm continuously adding projects and improving my analytical skills along the way.
 
-🤝 Let's Connect!
+
+🤝 **Let's Connect!**
 
 I'm always interested in connecting with other people in the data analytics, technology, and business intelligence space.
 
-💼 LinkedIn: Your LinkedIn
-
-📧 Email: Your Email
-
-🐙 GitHub: Your GitHub
-
-📊 GitHub Stats
-
-
-
-
-
-
 
 💡 "Without data, you're just another person with an opinion."
+
 
 ⭐ Thanks for visiting my profile!
 
