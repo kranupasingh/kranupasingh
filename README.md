@@ -2,6 +2,7 @@
 
 📊 Data Analyst Career returner | SQL | Python | Power BI | Tableau | Excel | Azure
 
+---
 Welcome to my GitHub! 👋 
 
 I am nearing completion of the **Data Technician BootCamp**, where I’ve been refreshing and strengthening my data analysis skills while developing practical experience with new tools and techniques across **data analysis, visualisation, databases, and cloud technologies**. 📊💻☁️
@@ -11,7 +12,7 @@ After taking a career change, I’m excited to be **returning to the data analyt
 ---
 🎓 **About Me**
 
-- 📚 Completed a Level 3 Data Analyst Data Boot Camp
+- 📚 Completed a Level 3 Data Analyst Boot Camp
 - 🧮 Data analysis using SQL & Supabase
 - 🐍 Data analysis and manipulation using Python & Google Colab
 - 📊 Data visualisation using Power BI & Tableau
