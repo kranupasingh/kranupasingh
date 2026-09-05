@@ -60,28 +60,28 @@ Developing foundational knowledge of Microsoft Azure and cloud-based data techno
 ---
 🚀 **Featured Projects**
 
-📊 **Data Analysis with SQL**
+- 📊 **Data Analysis with SQL**
 
 🗄️ Tools: SQL | Supabase
 
 A collection of SQL-based data analysis projects exploring datasets, identifying trends, and answering business questions through queries.
 
 
-🐍 **Python Data Analysis**
+- 🐍 **Python Data Analysis**
 
 🔬 Tools: Python | Google Colab | Pandas | NumPy | Matplotlib
 
 Data exploration and analysis projects using Python to clean, investigate, and visualise datasets.
 
 
-📊 **Power BI Dashboard**
+- 📊 **Power BI Dashboard**
 
 📈 Tools: Power BI | Data Visualisation
 
 Interactive dashboards designed to transform datasets into clear and actionable business insights.
 
 
-📉 **Tableau Dashboard**
+- 📉 **Tableau Dashboard**
 
 📊 Tools: Tableau | Data Visualisation
 
