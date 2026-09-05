@@ -5,7 +5,7 @@
 📊 Skilled in data visualization, analytics and cloud-based technologies
 
 ---
-<p align="center"> ## 🎓 **About Me**
+## <p align="center"> 🎓 **About Me**
 
 I have recently completed the **Data Technician BootCamp**, where I’ve been refreshing and strengthening my data analysis skills while developing practical experience with new tools and techniques across **data analysis, visualisation, databases, and cloud technologies**. 📊💻☁️
 
@@ -14,7 +14,8 @@ After taking a career change, I’m excited to be **returning to the data analyt
 ---
 
 <p align="center"> 🛠️ **Skills & Tools**
----
+  
+
 🛠️ **My Data Analytics Toolkit**
 🗄️ Databases & SQL
 
