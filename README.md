@@ -13,7 +13,7 @@ After taking a career change, I’m excited to be **returning to the data analyt
 
 ---
 
-<p align="center"> 🛠️ **Skills & Tools**
+## <p align="center"> 🛠️ **Skills & Tools**
   
 
 🛠️ **My Data Analytics Toolkit**
@@ -34,7 +34,7 @@ After taking a career change, I’m excited to be **returning to the data analyt
 <p> <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /> </p>
 
 ---
-## <p align="center">📈 **Analytical Strengths**
+## <p align="center">📈 Analytical Strengths
 
 🔹 Data Cleaning & Preparation
 Transforming messy datasets into structured, analysis-ready data.
@@ -59,7 +59,7 @@ Developing foundational knowledge of Microsoft Azure and cloud-based data techno
 
 
 ---
-## <p align="center">🚀 **Featured Projects**
+## <p align="center">🚀 Featured Projects
 
 - 📊 **Data Analysis with SQL**
 
@@ -90,7 +90,7 @@ Interactive visualisations and dashboards focused on discovering trends and comm
 
 
 ---
-## <p align="center">🧠** Continuous Professional Development**
+## <p align="center">🧠 Continuous Professional Development
 I'm continuing to develop my skills in:
 
 - 📊 Advanced data visualisation
@@ -101,7 +101,7 @@ I'm continuing to develop my skills in:
 - 💼 Building real-world data analytics projects
 
 ---
-## <p align="center">📂 **My Data Analytics Journey**
+## <p align="center">📂 My Data Analytics Journey
 
 My goal is to use this GitHub to showcase my journey as a Data Analyst and demonstrate how I can take a dataset through the full analytics process:
 
@@ -110,7 +110,7 @@ Raw Data 🗃️ → Clean Data 🧹 → Analysis 🔍 → Visualisation 📊 �
 I'm continuously adding projects and improving my analytical skills along the way.
 
 ---
-## <p align="center">🤝 **Let's Connect!**
+## <p align="center">🤝 Let's Connect!
 
 I'm always interested in connecting with other people in the data analytics, technology, and business intelligence space.
 
