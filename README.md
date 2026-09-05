@@ -118,6 +118,6 @@ I'm always interested in connecting with other people in the data analytics, tec
 💡 "Without data, you're just another person with an opinion."
 
 ---
-<p align="center">⭐ **Thanks for visiting my profile!**
+⭐ **Thanks for visiting my profile!**
 
 Happy analysing! 📊🐍💻🚀
