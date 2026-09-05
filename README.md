@@ -1,7 +1,7 @@
 👋 **Hi, I'm Kranupa**
 
 📊 Data Analyst Career returner passionate about turning data into actionable insights
-📊 Skilled in data visualization, analytics and cloud-based technologies
+-📊 Skilled in data visualization, analytics and cloud-based technologies
 
 ---
 🎓 **About Me**
