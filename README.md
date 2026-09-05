@@ -1,11 +1,11 @@
-<p align="center">👋 **Hi, I'm Kranupa**
+# <p align="center">👋 **Hi, I'm Kranupa**
 
 📊 Data Analyst Career returner passionate about turning data into actionable insights
 
 📊 Skilled in data visualization, analytics and cloud-based technologies
 
 ---
-🎓 **About Me**
+## 🎓 **About Me**
 
 I have recently completed the **Data Technician BootCamp**, where I’ve been refreshing and strengthening my data analysis skills while developing practical experience with new tools and techniques across **data analysis, visualisation, databases, and cloud technologies**. 📊💻☁️
 
