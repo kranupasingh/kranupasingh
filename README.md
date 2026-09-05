@@ -1,4 +1,4 @@
-👋 **Hi, I'm Kranupa**
+👋 <p align="center">**Hi, I'm Kranupa**
 
 📊 Data Analyst Career returner passionate about turning data into actionable insights
 
